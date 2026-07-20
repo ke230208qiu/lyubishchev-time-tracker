@@ -1,0 +1,5 @@
+配置.env
+__pycache__/
+*.pyc
+temp_charts/
+.vscode/

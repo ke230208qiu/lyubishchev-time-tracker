@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pymongo
+openai
+pydantic
+python-dotenv  # 用于环境变量管理
